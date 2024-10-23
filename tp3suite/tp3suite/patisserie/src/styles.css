@@ -1,0 +1,37 @@
+/* You can add global styles to this file, and also import other style files */
+nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav > ul > li {
+    float: left;
+}
+
+nav > ul > li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+body {
+    margin-top: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e6e4d9;
+    background-image: url('/assets/images/pattern.png');
+  }
+  
+  #main {
+    float: right;
+    width: 70%;
+    margin-bottom: 20px;
+  }
+
+  #mainheader {
+    background-color: #9c93c2;
+}
+  

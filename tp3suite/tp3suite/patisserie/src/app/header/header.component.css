@@ -1,0 +1,13 @@
+body {
+    margin-top: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e6e4d9;
+    background-image: url('/assets/images/pattern.png');
+  }
+  
+  #main {
+    float: right;
+    width: 70%;
+    margin-bottom: 20px;
+  }
+  
